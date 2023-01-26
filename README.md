@@ -41,9 +41,6 @@ if(result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```py
@@ -73,12 +70,6 @@ if(result == -1):
 else:
     print(array)
     print ("Element found at index: ", result)
-
-
-
-
-
-
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```py
@@ -108,12 +99,6 @@ if(result == -1):
 else:
     print(array)
     print ("Element found at index: ", result)
-
-
-
-
-
-
 ```
 ## Sample Input 
 ![output](./2ai.png)
